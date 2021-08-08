@@ -1,6 +1,8 @@
 # usa-insurance-price-prediction
 A linear Regression Model Using DataSet https://www.kaggle.com/mirichoi0218/insurance .
- About the dataset - 
+
+About the dataset - 
+
 Columns
 
 age: age of primary beneficiary
@@ -19,6 +21,7 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance
 
 
+Task - to predict the insurance price.
 
 
 
