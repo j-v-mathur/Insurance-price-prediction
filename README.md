@@ -34,5 +34,5 @@ Task - to predict the insurance price.
 
 >Insurance_prediction.ipynb is file where i used insurance.joblib to predict insurance price.
 
-Please let me know about any error, issue, problems that you find in this project i am very new to machine learning and i am still learning it.
+Please let me know about any error, issue, problems that you find in this project.
 
